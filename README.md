@@ -4,6 +4,10 @@
 
 > XML validator using Apache Xerces-C++ compiled to WebAssembly. Features in-memory XSD caching for validation.
 
+## Playground
+
+Try the interactive [Browser playground for xerces-wasm](https://harshanacz.github.io/xerces-playground/) to run XML validation directly in your browser. The source code is available on [GitHub](https://github.com/harshanacz/xerces-playground).
+
 ## How it works
 
 Xerces-C++ validation inherently splits into two main phases. The initial XSD parsing and compilation takes time, while the validation is fast.
