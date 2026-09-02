@@ -113,12 +113,13 @@ npm test
 ```
 
 ---
+## Reproducible builds
+
+See [docs/reproducible-wasm-build.md](docs/reproducible-wasm-build.md).
 
 ## License
 
 MIT — see [LICENSE](./LICENSE).  
 Includes Apache Xerces-C++ (Apache-2.0) — see [LICENSE-APACHE](./LICENSE-APACHE) and [NOTICE](./NOTICE).
 
-## Reproducible builds
 
-See [docs/reproducible-wasm-build.md](docs/reproducible-wasm-build.md).
