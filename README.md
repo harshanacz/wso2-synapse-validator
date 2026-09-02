@@ -113,6 +113,9 @@ npm test
 ```
 
 ---
+## Reproducible builds
+
+See [docs/reproducible-wasm-build.md](docs/reproducible-wasm-build.md).
 
 ## License
 
