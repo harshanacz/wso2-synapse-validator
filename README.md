@@ -1,8 +1,14 @@
 # WASM XML Validator
+> XML validator using Apache Xerces-C++ compiled to WebAssembly. Features in-memory XSD caching for validation.
 
 [![npm version](https://badge.fury.io/js/xerces-wasm.svg)](https://www.npmjs.com/package/xerces-wasm)
 
-> XML validator using Apache Xerces-C++ compiled to WebAssembly. Features in-memory XSD caching for validation.
+Install
+
+```bash
+npm install xerces-wasm
+```
+
 
 ## Playground
 
